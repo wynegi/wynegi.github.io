@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>程序有问题想找还真难搞啊</title>
+    <url>/2023/07/10/%E7%A8%8B%E5%BA%8F%E6%9C%89%E9%97%AE%E9%A2%98%E6%83%B3%E6%89%BE%E8%BF%98%E7%9C%9F%E9%9A%BE%E6%90%9E%E5%95%8A/</url>
+    <content><![CDATA[<p>先前文章写的比较长的时候，文章开头会随机挑几行，变成一个框内的内容。现在终于解决了<span id="more"></span><br>
+真的太丑了，但是完全是跟着攻略配置的我设置，而且也完全没找到相关的攻略。<br>
+config里的各种设置来来回回试了一圈，最开始是怀疑excerpt出的问题，算下来我那可怜的休息时间硬是花了接近10个小时就为了解决这个鬼东西。<br>
+其实上夜班的时候就想着要不就拉到凑合着用，但是越想越气，最后还是又研究了一会儿。<br>
+最后确定是因为在config里没有设置目录“toc”导致的问题，最后设置了toc:  maxdepth: 0把问题解决了，不过现在这个页面应该就暂时用不了目录了吧，<br>
+不过我写的也不是什么要用到目录的东西就是了。</p>
+]]></content>
+      <categories>
+        <category>随便写写</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>最近玩的几部国G</title>
     <url>/2023/07/09/%E6%9C%80%E8%BF%91%E7%8E%A9%E7%9A%84%E5%87%A0%E9%83%A8%E5%9B%BDG/</url>
     <content><![CDATA[<p>先前请假的那天，也就把以前买了好久，但是一直没时间玩的国G给玩了，只能说不愧都是小体量的国G，没多久就都通关了。<span id="more"></span><br>
@@ -30,23 +47,6 @@
       <tags>
         <tag>国G</tag>
         <tag>游戏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>程序有问题想找还真难搞啊</title>
-    <url>/2023/07/10/%E7%A8%8B%E5%BA%8F%E6%9C%89%E9%97%AE%E9%A2%98%E6%83%B3%E6%89%BE%E8%BF%98%E7%9C%9F%E9%9A%BE%E6%90%9E%E5%95%8A/</url>
-    <content><![CDATA[<p>先前文章写的比较长的时候，文章开头会随机挑几行，变成一个框内的内容。现在终于解决了<span id="more"></span><br>
-真的太丑了，但是完全是跟着攻略配置的我设置，而且也完全没找到相关的攻略。<br>
-config里的各种设置来来回回试了一圈，最开始是怀疑excerpt出的问题，算下来我那可怜的休息时间硬是花了接近10个小时就为了解决这个鬼东西。<br>
-其实上夜班的时候就想着要不就拉到凑合着用，但是越想越气，最后还是又研究了一会儿。<br>
-最后确定是因为在config里没有设置目录“toc”导致的问题，最后设置了toc:  maxdepth: 0把问题解决了，不过现在这个页面应该就暂时用不了目录了吧，<br>
-不过我写的也不是什么要用到目录的东西就是了。</p>
-]]></content>
-      <categories>
-        <category>随便写写</category>
-      </categories>
-      <tags>
-        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
